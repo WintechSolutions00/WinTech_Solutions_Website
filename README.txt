@@ -1,0 +1,1 @@
+Replace the Formspree endpoint in the form action with your Formspree endpoint (https://formspree.io/f/abcd1234). Then upload index.html to GitHub Pages.
